@@ -1,1 +1,1 @@
-# Flask-act22
+#  Flask's lightweight nature, flexibility, scalability, and strong community support make it a powerful and popular choice for Python web development. It's a great option for both beginners and experienced developers looking to build a wide range of web applications.
